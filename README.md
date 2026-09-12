@@ -30,7 +30,21 @@
 
 ## 📊 GitHub 统计
 
-<img src="https://github-readme-stats.vercel.app/api?username=edcfoshan&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true" height="165" alt="GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcfoshan&layout=compact&hide_border=true&bg_color=00000000" height="165" alt="Top langs" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edcfoshan/edcfoshan/main/profile-summary-card-output/github_dark/3-stats.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edcfoshan/edcfoshan/main/profile-summary-card-output/github/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/edcfoshan/edcfoshan/main/profile-summary-card-output/github/3-stats.svg" height="165" alt="GitHub 统计卡" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edcfoshan/edcfoshan/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edcfoshan/edcfoshan/main/profile-summary-card-output/github/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/edcfoshan/edcfoshan/main/profile-summary-card-output/github/1-repos-per-language.svg" height="165" alt="仓库语言占比卡" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edcfoshan/edcfoshan/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edcfoshan/edcfoshan/main/profile-summary-card-output/github/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/edcfoshan/edcfoshan/main/profile-summary-card-output/github/2-most-commit-language.svg" height="165" alt="提交语言占比卡" />
+</picture>
 
 ## 🐍
 
@@ -46,4 +60,4 @@
 
 | 微信公众号 | QQ 交流群 |
 |:---:|:---:|
-| <img src="assets/wechat-mp-qr.png" width="240" alt="微信公众号二维码" /> | <img src="assets/qq-group-qr.jpg" width="240" alt="QQ交流群二维码" /> |
+| <img src="assets/wechat-mp-qr.png" width="320" alt="微信公众号二维码" /> | <img src="assets/qq-group-qr.jpg" width="320" alt="QQ交流群二维码" /> |
