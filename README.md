@@ -42,11 +42,8 @@
 
 ## 📮 联系我
 
-- 微信公众号：**【公众号名称待填】**
-- QQ 交流群：**【QQ群号待填】**
+扫码关注公众号、加入交流群：
 
-<!--
-  补充方式：把下面两行的占位符替换成实际名称/群号，二维码图片放到 assets/ 目录即可。
-  [![公众号](https://img.shields.io/badge/公众号-极思G-07C160?logo=wechat&logoColor=white)](assets/wechat-mp.png)
-  [![QQ群](https://img.shields.io/badge/QQ群-123456789-12B7F5?logo=qq&logoColor=white)](assets/qq-group.png)
--->
+| 微信公众号 | QQ 交流群 |
+|:---:|:---:|
+| <img src="assets/wechat-mp-qr.png" width="240" alt="微信公众号二维码" /> | <img src="assets/qq-group-qr.jpg" width="240" alt="QQ交流群二维码" /> |
