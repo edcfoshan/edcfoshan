@@ -60,4 +60,4 @@
 
 | 微信公众号 | QQ 交流群 |
 |:---:|:---:|
-| <img src="assets/wechat-mp-qr.png" width="320" alt="微信公众号二维码" /> | <img src="assets/qq-group-qr.jpg" width="320" alt="QQ交流群二维码" /> |
+| <img src="assets/wechat-mp-qr.png" width="500" alt="微信公众号二维码" /> | <img src="assets/qq-group-qr.jpg" width="320" alt="QQ交流群二维码" /> |
