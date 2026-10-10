@@ -24,7 +24,6 @@
 |------|-----------|
 | [**polygon-txt**](https://github.com/edcfoshan/polygon-txt) ![Stars](https://img.shields.io/github/stars/edcfoshan/polygon-txt?style=flat&logo=github&color=F5C518) | 极思G界址点互转工具 — SHP/GDB 面要素与界址点 TXT 双向转换，无损往返，纯 Rust 无需 ArcPy |
 | [**ArcGISpro-baidu-amap-geocode-pyt**](https://github.com/edcfoshan/ArcGISpro-baidu-amap-geocode-pyt) ![Stars](https://img.shields.io/github/stars/edcfoshan/ArcGISpro-baidu-amap-geocode-pyt?style=flat&logo=github&color=F5C518) | 集成百度/高德 API 的 ArcGIS Pro 工具箱 — 地理编码、POI 搜索、行政区划边界、坐标系转换 |
-| [**cadastral-to-vector**](https://github.com/edcfoshan/cadastral-to-vector) | 宗地图/地籍图 PNG → 矢量面要素（AI Agent + OCR 工作流，对话即处理） |
 | [**arcgis-pro-addin-layout-agent**](https://github.com/edcfoshan/arcgis-pro-addin-layout-agent) ![Stars](https://img.shields.io/github/stars/edcfoshan/arcgis-pro-addin-layout-agent?style=flat&logo=github&color=F5C518) | 用结构化描述 + AI Agent 直接生成 ArcGIS Pro Add-In 的 DAML / C# 代码 |
 | [**gispro-planner-assistant**](https://github.com/edcfoshan/gispro-planner-assistant) | 面向城乡规划师的 ArcGIS Pro 加载项工作台 — 前期调研 · 影像底图 · 地图跳转 |
 
