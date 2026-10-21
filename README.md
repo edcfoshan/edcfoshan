@@ -1,3 +1,5 @@
+**QQ 交流群：826861025**
+
 # 你好，我是 edcfoshan
 
 > **GIS 工具开发者** · 专注测绘、国土与城乡规划行业的信息化工具开发
@@ -42,24 +44,6 @@
   </tr>
 </table>
 
-## 📊 GitHub 统计
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edcfoshan/edcfoshan/main/profile-summary-card-output/github_dark/3-stats.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edcfoshan/edcfoshan/main/profile-summary-card-output/github/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/edcfoshan/edcfoshan/main/profile-summary-card-output/github/3-stats.svg" height="165" alt="GitHub 统计卡" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edcfoshan/edcfoshan/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edcfoshan/edcfoshan/main/profile-summary-card-output/github/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/edcfoshan/edcfoshan/main/profile-summary-card-output/github/1-repos-per-language.svg" height="165" alt="仓库语言占比卡" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edcfoshan/edcfoshan/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edcfoshan/edcfoshan/main/profile-summary-card-output/github/2-most-commit-language.svg" />
-  <img src="https://raw.githubusercontent.com/edcfoshan/edcfoshan/main/profile-summary-card-output/github/2-most-commit-language.svg" height="165" alt="提交语言占比卡" />
-</picture>
-
 ## 🐍
 
 <picture>
@@ -72,8 +56,8 @@
 
 扫码关注「极思G工作室」公众号、加入 QQ 交流群，获取工具更新、交流使用经验：
 
-<img src="./content/求关注-极思G-20261014.png" width="720" alt="关注极思G：公众号与 QQ 交流群" />
+<img src="./content/求关注-极思G-20261014.png" width="360" alt="关注极思G：公众号与 QQ 交流群" />
 
 如果这些工具对你有帮助，欢迎赞赏支持。赞赏完全自愿，感谢你的支持。
 
-<img src="./content/求赞赏-极思G-20261014.png" width="720" alt="支持极思G：微信赞赏与爱发电" />
+<img src="./content/求赞赏-极思G-20261014.png" width="360" alt="支持极思G：微信赞赏与爱发电" />
