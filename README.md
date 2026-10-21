@@ -27,9 +27,20 @@
 | [**arcgis-pro-addin-layout-agent**](https://github.com/edcfoshan/arcgis-pro-addin-layout-agent) ![Stars](https://img.shields.io/github/stars/edcfoshan/arcgis-pro-addin-layout-agent?style=flat&logo=github&color=F5C518) | 用结构化描述 + AI Agent 直接生成 ArcGIS Pro Add-In 的 DAML / C# 代码 |
 | [**gispro-planner-assistant**](https://github.com/edcfoshan/gispro-planner-assistant) | 面向城乡规划师的 ArcGIS Pro 加载项工作台 — 前期调研 · 影像底图 · 地图跳转 |
 
-## 赞助商
+## ❤️ 赞助商
 
-感谢 **jizhanai.top** 赞助支持！通过[邀请链接注册开通](https://jizhanai.top/register?ref=PBUXGDHTFUAS)，填写邀请码 **`PBUXGDHTFUAS`** 可减 **5 元**。
+<a href="https://jizhanai.top/register?ref=PBUXGDHTFUAS">
+  <img src="./content/sponsors/jizhan-banner.svg" width="100%" alt="极栈：填写邀请码 PBUXGDHTFUAS 减 5 元，点击注册开通" />
+</a>
+
+<table>
+  <tr>
+    <td width="24%" align="center">
+      <a href="https://jizhanai.top/register?ref=PBUXGDHTFUAS"><img src="./content/sponsors/jizhan-wordmark.svg" width="180" alt="极栈 jizhanai.top，点击通过邀请链接注册" /></a>
+    </td>
+    <td>感谢 <a href="https://jizhanai.top/register?ref=PBUXGDHTFUAS"><b>极栈 · jizhanai.top</b></a> 赞助支持本项目！极栈提供 <b>ChatGPT 激活码</b>，选购后按站内指引前往码港兑换。<br><br>通过<a href="https://jizhanai.top/register?ref=PBUXGDHTFUAS">邀请链接注册开通</a>，填写邀请码 <code>PBUXGDHTFUAS</code>，可减 <b>5 元</b>。</td>
+  </tr>
+</table>
 
 ## 📊 GitHub 统计
 
