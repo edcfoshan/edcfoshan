@@ -27,6 +27,10 @@
 | [**arcgis-pro-addin-layout-agent**](https://github.com/edcfoshan/arcgis-pro-addin-layout-agent) ![Stars](https://img.shields.io/github/stars/edcfoshan/arcgis-pro-addin-layout-agent?style=flat&logo=github&color=F5C518) | 用结构化描述 + AI Agent 直接生成 ArcGIS Pro Add-In 的 DAML / C# 代码 |
 | [**gispro-planner-assistant**](https://github.com/edcfoshan/gispro-planner-assistant) | 面向城乡规划师的 ArcGIS Pro 加载项工作台 — 前期调研 · 影像底图 · 地图跳转 |
 
+## 赞助商
+
+感谢 **jizhanai.top** 赞助支持！通过[邀请链接注册开通](https://jizhanai.top/register?ref=PBUXGDHTFUAS)，填写邀请码 **`PBUXGDHTFUAS`** 可减 **5 元**。
+
 ## 📊 GitHub 统计
 
 <picture>
@@ -53,10 +57,12 @@
   <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/edcfoshan/edcfoshan/output/github-snake.svg" />
 </picture>
 
-## 📮 联系我
+## 关注与赞赏
 
-扫码关注公众号、加入交流群：
+扫码关注「极思G工作室」公众号、加入 QQ 交流群，获取工具更新、交流使用经验：
 
-| 微信公众号 | QQ 交流群 |
-|:---:|:---:|
-| <img src="assets/wechat-mp-qr.png" width="500" alt="微信公众号二维码" /> | <img src="assets/qq-group-qr.jpg" width="320" alt="QQ交流群二维码" /> |
+<img src="./content/求关注-极思G-20261014.png" width="720" alt="关注极思G：公众号与 QQ 交流群" />
+
+如果这些工具对你有帮助，欢迎赞赏支持。赞赏完全自愿，感谢你的支持。
+
+<img src="./content/求赞赏-极思G-20261014.png" width="720" alt="支持极思G：微信赞赏与爱发电" />
